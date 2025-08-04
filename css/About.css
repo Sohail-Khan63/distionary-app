@@ -1,0 +1,21 @@
+.about-us-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+.myImg {
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  border-radius: 50%;
+  border: 4px solid #213448;
+}
+h2 {
+  color: #38bdf8;
+}
+.myAbout {
+  background-color: #213448;
+  color: #fff;
+  padding: 1rem;
+}
